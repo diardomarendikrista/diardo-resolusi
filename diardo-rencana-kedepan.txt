@@ -4,3 +4,4 @@ Rencana Kedepan Diardo
    *Sudah paham dasar2 dari HTML CSS dan JS, tapi harus diperdalam lagi.
 - Belajar lebih dalam tentang logika2 untuk diimplementasikan di JS.
    *Logika yang diketahui sangat dasar, perlu lebih dalam lagi untuk problem solving yg lebih kompleks.
+- Belajar Framework
