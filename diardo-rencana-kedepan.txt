@@ -1,0 +1,4 @@
+Rencana Kedepan Diardo
+
+- Belajar lebih dalam tentang HTML, CSS dan JS
+- Belajar lebih dalam tentang logika2 untuk diimplementasikan di JS
