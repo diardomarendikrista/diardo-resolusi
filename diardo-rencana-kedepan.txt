@@ -6,3 +6,4 @@ Rencana Kedepan Diardo
    *Logika yang diketahui sangat dasar, perlu lebih dalam lagi untuk problem solving yg lebih kompleks.
 - Belajar Framework
    *Vue.js
+   *React
